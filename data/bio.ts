@@ -27,7 +27,12 @@ export const bioData = {
     {
       label: 'Resume',
       value: 'resume',
-      href: 'https://1drv.ms/b/c/21ada016653c9e33/EXjJW2Xb3tVMtNXLPhGleEwBXotZmEcyv4LifUxqaV9GtA?e=7cDbdN',
+      href: 'https://drive.google.com/file/d/14oSRaApb39w16i3Lc_HyvRw6Z_g9JclK/view',
+    },
+    {
+      label: 'Online-Resume',
+      value: 'on-resume',
+      href: 'https://iprajwall.github.io/res-onl/',
     }
   ],
 }
