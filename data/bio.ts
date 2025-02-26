@@ -32,7 +32,7 @@ export const bioData = {
     {
       label: 'Online-Resume',
       value: 'on-resume',
-      href: 'https://iprajwall.github.io/res-onl/',
+      href: 'https://cv-prajwal.vercel.app/',
     }
   ],
 }
